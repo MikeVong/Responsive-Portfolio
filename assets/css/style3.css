@@ -1,0 +1,124 @@
+@media only screen and (max-width: 980px)
+    {
+    #about 
+        {
+        width: 850px;
+        height: 320px;
+        left: 50px;
+        }
+    #portfolio
+        {
+        width: 800px;
+        height: 530px;
+        left: 50px;
+        top: 100px;
+        }
+    .gallery 
+        {
+        margin: 10px;
+        width: 210px;
+        position: relative;
+        }
+    .gallery img 
+        {
+        width: 210px;
+        height: 210px;
+        }
+    #contact
+        {
+        width: 750px;
+        height: 450px;
+        left: 100px;
+        }
+    input[type=submit] 
+        {
+        width: 100px;
+        padding: 10px;
+        margin: 5px 0;
+        border-radius: 4px;
+        }
+    }
+
+@media only screen and (max-width: 768px)
+    {
+    #about 
+        {
+        width: 650px;
+        height: 320px;
+        left: 50px;
+        }
+    #portfolio
+        {
+        width: 650px;
+        height: 530px;
+        left: 50px;
+        top: 100px;
+        }
+    .gallery 
+        {
+        margin: 10px;
+        width: 190px;
+        position: relative;
+        }
+    .gallery img 
+        {
+        width: 190px;
+        height: 190px;
+        }
+    #contact
+        {
+        width: 550px;
+        height: 450px;
+        left: 100px;
+        }
+    input[type=submit] 
+        {
+        width: 100px;
+        padding: 10px;
+        margin: 5px 0;
+        border-radius: 4px;
+        }
+    }
+@media only screen and (max-width: 640px)
+    {
+    h3
+        {
+        font-size: 14px;    
+        }
+    #about 
+        {
+        width: 500px;
+        height: 450px;
+        left: 50px;
+        }
+    #portfolio
+        {
+        width: 500px;
+        height: 450px;
+        left: 50px;
+        }
+    .gallery 
+        {
+        margin: 5px;
+        width: 150px;
+        position: relative;
+        }
+    .gallery img 
+        {
+        width: 150px;
+        height: 150px;
+        }
+    #contact
+        {
+        width: 500px;
+        height: 450px;
+        left: 50px;
+        }
+    input[type=submit] 
+        {
+        width: 100px;
+        padding: 10px;
+        margin: 5px 0;
+        border-radius: 4px;
+        }
+    }
